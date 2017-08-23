@@ -1,10 +1,10 @@
-Description  
+<h1>Description</h1>  
 
 In this project, you will use the Star Wars API (SWAPI) to render a set of Star Wars vehicles 'cards'. To achieve this you will implement the following React logic: props, state and lifecycle.
 
-Normal Mode  
+<h2>Normal Mode </h2> 
 
-Project Setup  
+<h3>Project Setup</h3>
 
 We have scaffolded the majority of the project for you! The purpose of this project is to get you familiar with the concepts of props, state, and lifecycle events.
 
